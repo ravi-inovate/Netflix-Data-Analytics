@@ -19,3 +19,7 @@ It demonstrates skills in data cleaning, exploratory data analysis (EDA), and vi
 1. Clone the repository:
    ```bash
    git clone https://github.com/ravi-inovate/Netflix-Data-Analytics.git
+
+## Contact
+- GitHub: [ravi-inovate](https://github.com/ravi-inovate)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ravi-rathour-770377385/)
