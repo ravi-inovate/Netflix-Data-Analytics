@@ -40,11 +40,11 @@ It demonstrates skills in data cleaning, exploratory data analysis (EDA), and vi
 ## Results / Visuals
 Here are some of the visuals generated in the analysis:
 
-![Top Genres](images/top_genres.png)
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
-![Content Growth](images/content_growth.png)
-![Genres Wordcloud](images/genres_wordcloud.png)
-![Missing Values Heatmap](images/missing_values.png)
+![Top Genres](notebook/data/images/top_genres.png)
+![Movies vs TV Shows](notebook/data/images/movies_vs_tvshows.png)
+![Content Growth](notebook/data/images/content_growth.png)
+![Genres Wordcloud](notebook/data/images/genres_wordcloud.png)
+![Missing Values Heatmap](notebook/data/images/missing_values_heatmap.png)
 
 ## Contact
 - GitHub: [ravi-inovate](https://github.com/ravi-inovate)
