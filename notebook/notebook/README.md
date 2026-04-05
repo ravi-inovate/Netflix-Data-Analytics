@@ -40,10 +40,10 @@ It demonstrates skills in data cleaning, exploratory data analysis (EDA), and vi
 ## Results / Visuals
 Here are some of the visuals generated in the analysis:
 
-![Top Genres](notebook/data/images/top_genres.png)
-![Movies vs TV](notebook/data/images/movies_vs_tv.png)
 ![Content Growth](notebook/data/images/content_growth.png)
 ![Genres Wordcloud](notebook/data/images/genres_wordcloud.png)
+![Movies vs TV](notebook/data/images/movies_vs_tv.png)
+![Top Genres](notebook/data/images/top_genres.png)
 ![Missing Values](notebook/data/images/missing_values.png)
 
 ## Contact
