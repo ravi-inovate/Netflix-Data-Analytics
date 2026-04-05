@@ -1,4 +1,4 @@
-﻿# Netflix Data Analytics Project 🎬📊
+﻿# Netflix Data Analytics Project 🎬
 
 This is my first data analytics project using Jupyter Notebook.  
 It explores the Netflix dataset with insights such as:
